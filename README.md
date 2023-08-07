@@ -1,5 +1,7 @@
 # Interactive Map of Canadian Electricity Generation
 
+The live deployed app hosted on Streamlit Community Cloud can be found [here](https://canada-energy-generation-map-app.streamlit.app/)
+
 ![Interactive Map Preview](screenshot.png)
 
 ## Overview
