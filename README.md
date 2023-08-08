@@ -2,6 +2,8 @@
 
 The live deployed app hosted on Streamlit Community Cloud can be found [here](https://canada-energy-generation-map-app.streamlit.app/)
 
+Tableau dashboard version of this app can be found [here](https://public.tableau.com/app/profile/musab.naik/viz/ElectricityGenerationinCanada/Dashboard1)
+
 ![Interactive Map Preview](screenshot.png)
 
 ## Overview
